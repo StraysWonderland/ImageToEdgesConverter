@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 
 # define argparse to launch app from console
 ap = argparse.ArgumentParser()
-ap.add_argument("-i", "--image", help="path to the image file", nargs='?', const=1, default="test_zange.jpg")
+ap.add_argument("-i", "--image", help="path to the image file", nargs='?', const=1, default="Lenna_(test_image).png")
 args = vars(ap.parse_args())
 
 # read image and copy
