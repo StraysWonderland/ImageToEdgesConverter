@@ -7,3 +7,4 @@ Useful for generating a dataset for training a GAN for image-to-image-translatio
 - python 3.7
 - open cv
 - matplotlib
+- numpy
