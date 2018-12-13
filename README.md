@@ -8,3 +8,10 @@ Useful for generating a dataset for training a GAN for image-to-image-translatio
 - open cv
 - matplotlib
 - numpy
+
+## Usage
+open a terminal in the directory of the converter and type
+
+    python ImageToEdgesConverter.py [--i] [path to target image]
+
+
