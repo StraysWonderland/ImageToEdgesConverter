@@ -9,6 +9,11 @@ Useful for generating a dataset for training a GAN for image-to-image-translatio
 - matplotlib
 - numpy
 
+These requirements in the requirements.txt.
+To install them, simply open a terminal in the directory and run
+
+    pip install -r requirements.txt
+    
 ## Usage
 open a terminal in the directory of the converter and type
 
